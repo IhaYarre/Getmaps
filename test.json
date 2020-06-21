@@ -1,6 +1,6 @@
 { "Version": [
 {
-"version":"2",
+"version":"3.0",
 "error":"01",
 "package":"xyz.Granny.Horror.MCPE.MAP.MOD",
  "ads":"true",
@@ -11,7 +11,7 @@
 ],
 "Controle": [
 {
-"version":"2",
+"version":"3.0",
 "error": "01"
 }
 ]
