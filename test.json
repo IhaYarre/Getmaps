@@ -2,7 +2,7 @@
 {
 "version":"2",
 "error":"01",
-"package":"com.myhilapon.bencoloringherosultimate",
+"package":"xyz.Granny.Horror.MCPE.MAP.MOD",
  "ads":"true",
  "banner":"ca-app-pub-3940256099942544/6300978111",
  "inter":"ca-app-pub-3940256099942544/1033173712",
@@ -11,7 +11,7 @@
 ],
 "Controle": [
 {
-"version":"5",
+"version":"2",
 "error": "01"
 }
 ]
