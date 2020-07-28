@@ -1,0 +1,18 @@
+{ "Version": [
+{
+"version":"0.0.1",
+"error":"01",
+"package":"xx",
+ "ads":"true",
+ "banner":"ca-app-pub-3940256099942544/6300978111",
+ "inter":"ca-app-pub-/",
+ "idAdb":"ca-app-pub-~"
+}
+],
+"Controle": [
+{
+"version":"1.2",
+"error": "01"
+}
+]
+}
