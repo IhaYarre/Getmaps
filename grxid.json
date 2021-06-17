@@ -1,0 +1,37 @@
+{ "Version": [
+ 
+{
+ 
+"version":"1",
+ 
+"error":"01",
+ 
+"package":"xx",
+ 
+ "ads":"applovin",
+ 
+"banner":"ca-app-pubf3940256099942544/6300978111",
+"inter":"ca-app-pub-f/1033173712",
+"applovinbanner":"ab7aeec8e1441c2a",
+"appplovininterstitial":"d83b609e606e19ae",
+"applovinreward":"979a4f1029fbbefc",
+"faNative":"172416984366995_190584962550197",
+"idAdb":"ca-app-pub-~",
+"packagename" : "com.hello.mcpe.neighbor.scarymaps"
+}
+ 
+],
+ 
+"Controle": [
+ 
+{
+ 
+"version":"1.2",
+ 
+"error": "01"
+ 
+}
+ 
+]
+ 
+}
