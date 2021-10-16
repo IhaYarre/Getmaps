@@ -3,9 +3,9 @@
 "version":"0.0.1",
 "error":"01",
 "package":"xx",
- "ads":"false",
- "banner":"ca-app-pub-7173666793282431/7868192328",
- "inter":"ca-app-pub-7173666793282431/3367848142",
+ "ads":"true",
+ "banner":"ca-app-pub-7719099260402101/7439904181",
+"inter":"ca-app-pub-7719099260402101/9496890180",
  "idAdb":"ca-app-pub-~"
 }
 ],
